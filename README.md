@@ -17,6 +17,9 @@ IoT system using Arduino Pro Nicla Vision to recognise gestures and use them to 
 [Smart Home Simulation](https://github.com/Rpct00ter/La_casa_IoT_de_papel--SmartHome--)  
 Design of an IoT system that acts as a smart home in a simulated cardboard house 
 
+[No infrastructure communicator](https://github.com/Rpct00ter/IoT_No-infrastructure-communication-system-with-LoRa-RF-Voice-and-GPS)  
+
+
 ## 🕷️ Networking projects 
 [IRC Communicator](https://github.com/Rpct00ter/Simple-IRC-type-communicator)  
 Simple IRC Communication system using client and server architecture.
