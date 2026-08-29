@@ -11,6 +11,6 @@ My main repository consists of:
 [Administration Repository](https://github.com/Rpct00ter/Administration_and_Infrastructure)
 
 ## IoT projects
-[IoT Smart Home](https://github.com/Rpct00ter/La_casa_IoT_de_papel--SmartHome--)
+[IoT Smart Home](https://github.com/Rpct00ter/La_casa_IoT_de_papel--SmartHome--) Design of an IoT system that acts as a smart home in a simulated cardboard house 
 
 ## Networking projects 
