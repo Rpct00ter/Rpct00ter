@@ -12,6 +12,7 @@ My main repository consists of:
 
 ## IoT projects
 [Spotify gesture recognition](https://github.com/Rpct00ter/IoT_Spotify-Control-with-gesture-recognition)  
+IoT system using Arduino Pro Nicla Vision to recognise gestures and use them to control spotify app  
 
 [Smart Home Simulation](https://github.com/Rpct00ter/La_casa_IoT_de_papel--SmartHome--)  
 Design of an IoT system that acts as a smart home in a simulated cardboard house 
