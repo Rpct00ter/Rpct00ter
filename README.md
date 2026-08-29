@@ -1,4 +1,3 @@
-Cybersecurity & IT Projects
 ## Cybersecurity projects
 [Cybersecurity Repository: ](https://github.com/Rpct00ter/Cybersecurity)   
 My main repository consists of:   
@@ -19,3 +18,5 @@ IoT system using Arduino Pro Nicla Vision to recognise gestures and use them to 
 Design of an IoT system that acts as a smart home in a simulated cardboard house 
 
 ## Networking projects 
+[IRC Communicator](https://github.com/Rpct00ter/Simple-IRC-type-communicator)  
+Simple IRC Communication system using client and server architecture.
