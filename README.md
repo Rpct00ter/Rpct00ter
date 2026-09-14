@@ -35,4 +35,4 @@ A long-range IoT communication system based on LoRa, GPS and RF Voice Radio modu
 Simple IRC Communication system using client and server architecture.
 
 [Spotify unassigned songs finder](https://github.com/Rpct00ter/Spotify_Unassigned-Songs-Finder)  
-A Python application that communicates with Spotify over HTTPS using the Spotify Web API and OAuth 2.0. It connects to the user's Spotify account, retrieves liked songs and personal playlists and identifies tracks that are not assigned to any playlist. Then it creates a plylist named "Not sorted 'TIMESTAMP'" and automatically adds songs that were not assigned.
+A Python application that communicates with Spotify over HTTPS using the Spotify Web API and OAuth 2.0. It connects to the user's Spotify account, retrieves liked songs and personal playlists and identifies tracks that are not assigned to any playlist. Then it creates a plylist named "Not sorted 'TIMESTAMP'" and automatically adds unorganised songs.
