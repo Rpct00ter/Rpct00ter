@@ -2,16 +2,18 @@
 [Cybersecurity Repository: ](https://github.com/Rpct00ter/Cybersecurity)   
 My main repository focused on the security. It is divided into four main sections:  
 - <ins>Detection and Incident Response</ins>  
-Consists of security investigations, alert analysis, defensive security scenarios, digital forensics and incident response exercises. It focuses mainly on hands-on action using tools such as for example: <u>Microsoft Sentinel , Splunk, Wazuh, Microsoft Defender XDR, Sysmon</u>, <u>Volatility 3</u>, <u>Autopsy</u>  and  <u> Wireshark.</u>
+This section consists of security investigations, alert analysis, defensive security scenarios, digital forensics, and incident response exercises. It focuses primarily on hands-on work using tools such as **Microsoft Sentinel, Splunk, Wazuh, Microsoft Defender XDR, Sysmon, Volatility 3, Autopsy,** and **Wireshark**.  
 
 - <ins>Security Engineering</ins>  
-Practical security infrastructure configuration and administration. It includes for example showcases of configurations using f.ex. <u>Fortinet Next Generation Firewall, Forti Analyzer, Sysmon</u>    or <u>Microsoft Defender XDR </u>  
+This section covers the practical configuration and administration of security infrastructure. It includes, for example, configuration showcases and hands-on projects involving **Fortinet Next-Generation Firewalls, FortiAnalyzer, Sysmon,** and **Microsoft Defender XDR**.  
  
 - <ins>Detection Rules</ins>  
-Detection rules
+This section contains detection rules and related content, including **Sigma rules, KQL, SPL,** and **Snort rules**.  
 
 - <ins>OSINT</ins>  
-OSINT challenges
+This section contains **OSINT** challenge results, investigations, and practical showcases.  
+
+
 
 [C2-Backdoor-with-Keylogger](https://github.com/Rpct00ter/Keylogger_in_C-minor)  
 In progress  
