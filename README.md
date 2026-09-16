@@ -5,7 +5,7 @@ My main repository focused on the security. It is divided into four main section
 This section consists of security investigations, alert analysis, defensive security scenarios, digital forensics, and incident response exercises. It focuses primarily on hands-on work using tools such as **Microsoft Sentinel, Splunk, Wazuh, Microsoft Defender XDR, Sysmon, Volatility 3, Autopsy,** and **Wireshark**.  
 
 - <ins>Security Engineering</ins>  
-This section covers the practical configuration and administration of security infrastructure. It includes, for example, configuration showcases and hands-on projects involving **Fortinet Next-Generation Firewalls, FortiAnalyzer, Sysmon,** and **Microsoft Defender XDR**.  
+Practical security infrastructure configuration and administration, including tools such as: <strong><u>Fortinet NGFW, FortiAnalyzer, Sysmon </u></strong> and <strong><u>Microsoft Defender XDR</u></strong>. Section showcases logging, network security controls, monitoring, and security policies management.   
  
 - <ins>Detection Rules</ins>  
 This section contains detection rules and related content, including **Sigma rules, KQL, SPL,** and **Snort rules**.  
