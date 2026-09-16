@@ -1,7 +1,7 @@
 ## 🔐 Cybersecurity projects
 [Cybersecurity Repository: ](https://github.com/Rpct00ter/Cybersecurity)   
 My main repository focused on the security. It is divided into four main sections:  
-- <ins>SOC</ins>  
+- <ins>Detection and Incident Response</ins>  
 Consists of security investigations, alert analysis, defensive security scenarios, digital forensics and incident response exercises. It focuses mainly on hands-on action using tools such as for example: <u>Microsoft Sentinel , Splunk, Wazuh, Microsoft Defender XDR, Sysmon</u>, <u>Volatility 3</u>, <u>Autopsy</u>  and  <u> Wireshark.</u>
 
 - <ins>Security Engineering</ins>  
