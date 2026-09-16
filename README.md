@@ -23,7 +23,7 @@ Cybersecurity project for intruder detection. It's main goal is to create endpoi
 
 ## 🐧 Administration projects
 [Administration Repository](https://github.com/Rpct00ter/Administration_and_Infrastructure)  
-A collection of hands-on projects and configurations demonstrating practical Windows and Linux administration, Active Directory management, networking, system configuration, and visualisation of my own home lab infrastructure.
+A collection of hands-on projects and configurations demonstrating practical **Windows** and **Linux administration**, **Active Directory** management, **Powershell scripting**, networking, system configuration, and visualisation of my own home lab infrastructure.
   
 ## 📡 IoT projects
 [Spotify gesture recognition](https://github.com/Rpct00ter/IoT_Spotify-Control-with-gesture-recognition)  
