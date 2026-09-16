@@ -10,6 +10,9 @@ Practical security infrastructure configuration and administration. It includes 
 - <ins>Detection Rules</ins>  
 Detection rules
 
+- <ins>OSINT</ins>  
+OSINT challenges
+
 [C2-Backdoor-with-Keylogger](https://github.com/Rpct00ter/Keylogger_in_C-minor)  
 In progress  
 ## 🐧 Administration projects
