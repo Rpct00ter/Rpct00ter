@@ -8,11 +8,10 @@ This section consists of security investigations, alert analysis, defensive secu
 Practical security infrastructure configuration and administration, including tools such as: <strong><u>Fortinet NGFW, FortiAnalyzer, Sysmon </u></strong> and <strong><u>Microsoft Defender XDR</u></strong>. Section showcases logging, network security controls, monitoring, and security policies management.   
  
 - <ins>Detection Rules</ins>  
-This section contains detection rules and related content, including **Sigma rules, KQL, SPL,** and **Snort rules**.  
+This section contains detection rules and related content, including **KQL, SPL, Sigma rules** and **Snort rules**.  
 
 - <ins>OSINT</ins>  
-This section contains **OSINT** challenge results, investigations, and practical showcases.  
-
+Practical **OSINT** tools, notes, methodologies, knowledge dumps, and cheat sheets used for security research, threat intelligence, and investigations.
 
 
 [C2-Backdoor-with-Keylogger](https://github.com/Rpct00ter/Keylogger_in_C-minor)  
