@@ -16,7 +16,11 @@ This section contains **OSINT** challenge results, investigations, and practical
 
 
 [C2-Backdoor-with-Keylogger](https://github.com/Rpct00ter/Keylogger_in_C-minor)  
-In progress  
+**In progress**  
+
+[Deception project](https://github.com/Rpct00ter/Deception-Project)
+Cybersecurity project for intruder detection. It's main goal is to create endpoint deception directory with canary files and honeytokens. **In progress**  
+
 ## 🐧 Administration projects
 [Administration Repository](https://github.com/Rpct00ter/Administration_and_Infrastructure)  
 A collection of hands-on projects and configurations demonstrating practical Windows and Linux administration, Active Directory management, networking, system configuration, and visualisation of my own home lab infrastructure.
